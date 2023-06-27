@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anupam Sen"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post Doctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) working with Prof. Shyam Sundar Ghoshal. I did my PhD at the Indian Institute of Technology Kharagpur, India under the supervision of Prof. T. Raja Sekhar.
+I am a Post Doctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) working with [Prof. Shyam Sundar Ghoshal](https://sites.google.com/tifrbng.res.in/shyam/shyam-sundar-ghoshal). I did my PhD at the Indian Institute of Technology Kharagpur, India under the supervision of Prof. T. Raja Sekhar.
+
+My full CV is here.
 
 
 Work Experience
