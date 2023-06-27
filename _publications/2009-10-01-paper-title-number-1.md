@@ -1,12 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Self-similar viscosity approach to the Riemann problem for a strictly hyperbolic system of conservation laws"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Here, we study the Riemann problem for a strictly hyperbolic system of conservation laws, which occurs in gas dynamics and nonlinear elasticity. We establish
+the existence and uniqueness of the solution of Riemann problem containing
+delta shock wave by employing self-similar vanishing viscosity approach. We
+prove that delta shock is stable under self-similar viscosity perturbation, which
+ensures that delta shock wave is a unique entropy solution.'
+date: 2023
+venue: 'Math Meth Appl Sci.'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://mathscinet.ams.org/mathscinet/author?authorId=1207727)'
+citation: 'Chhatria, Balakrishna; Sen, Anupam; Raja Sekhar, T.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
