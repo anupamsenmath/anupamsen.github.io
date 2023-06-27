@@ -12,12 +12,13 @@ I am a postdoctoral research fellow at [TIFR, India](https://www.math.tifrbng.re
 
 Work Experience
 ----------
-* Post-doctoral researcher, TIFR, India (Sept. 2021 -- present).
+* Post-doctoral researcher, TIFR, India (Sept. 2021 -- present). 
 
 Education
 ---------
-* PhD, Indian Institute of Technology Kharagpur, India (put year)
-* MSC, Indian Institute of Technology Bombay, Mumbai, India
+* PhD, Indian Institute of Technology Kharagpur, India (2017-2021)
+* MSC, Indian Institute of Technology Bombay, Mumbai, India (2012-2014)
 * BSc Midnapore College, Vidyasagar University, 2009-2012
 * HS Kharagpur Silver Jubilee High School 2007-2009
+* MP, Mawa I. C High School
 
