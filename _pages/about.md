@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at [TIFR, India](https://www.math.tifrbng.res.in)... India
+I am a Post Doctoral Fellow at [TIFR, India](https://www.math.tifrbng.res.in). I did my PhD at the Indian Institute of Technology Kharagpur, India under the supervision of Prof. T. Raja Sekhar.
+
 
 Work Experience
 ----------
@@ -16,9 +17,9 @@ Work Experience
 
 Education
 ---------
-* PhD, Indian Institute of Technology Kharagpur, India (2017-2021)
+* Ph.D., Indian Institute of Technology Kharagpur, India (2017-2021)
 * MSC, Indian Institute of Technology Bombay, Mumbai, India (2012-2014)
 * BSc Midnapore College, Vidyasagar University, 2009-2012
 * HS Kharagpur Silver Jubilee High School 2007-2009
-* MP, Mawa I. C High School
+  
 
