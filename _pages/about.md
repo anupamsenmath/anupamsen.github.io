@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post Doctoral Fellow at [TIFR, India](https://www.math.tifrbng.res.in). I did my PhD at the Indian Institute of Technology Kharagpur, India under the supervision of Prof. T. Raja Sekhar.
+I am a Post Doctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) working with Prof. Shyam Sundar Ghoshal. I did my PhD at the Indian Institute of Technology Kharagpur, India under the supervision of Prof. T. Raja Sekhar.
 
 
 Work Experience
