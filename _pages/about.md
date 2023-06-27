@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post Doctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) working with [Prof. Shyam Sundar Ghoshal](https://sites.google.com/tifrbng.res.in/shyam/shyam-sundar-ghoshal). I did my PhD at the Indian Institute of Technology Kharagpur, India under the supervision of Prof. T. Raja Sekhar.
+Presently, I am working as a Post Doctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) working with [Prof. Shyam Sundar Ghoshal](https://sites.google.com/tifrbng.res.in/shyam/shyam-sundar-ghoshal). I did my PhD at the Indian Institute of Technology Kharagpur, India under the supervision of [Prof. T. Raja Sekhar](https://www.iitkgp.ac.in/department/MA/faculty/ma-trajasekhar). My broad area of research is analysis of hyperbolic partial differential equations.
 
 My full CV is here.
 
 
 Work Experience
 ----------
-* Post-doctoral researcher, TIFR, India (Sept. 2021 -- present). 
+* Post-doctoral researcher, TIFR, India (September 2021 -- present).
+* Awarded JRF project (SERB, DST, Government of India (Ref No: SB/FTP/MS-047/2013)) entitled “Delta shock waves and wave inactions in hyperbolic system of conservation laws” at IIT Kharagpur (October 2015- December 2016).
 
 Education
 ---------
