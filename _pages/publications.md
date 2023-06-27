@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[1.]([https://ieeexplore.ieee.org/document/6828878/](https://doi.org/10.1002/mma.8969)) B. Chhatria, <b>Anupam Sen </b> and T. Raja Sekhar, "Self-similar viscosity approach to the Riemann problem for a strictly hyperbolic system of conservation laws", Mathematical Methods in the Applied Sciences 46 (6) (2023): 
+7265-7284 (Wiley) (SCI)
