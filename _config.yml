@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anupam Sen"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Mathematician working on hyperbolic conservation laws"
   location         : "TIFR-CAM Bangalore"
   employer         :
