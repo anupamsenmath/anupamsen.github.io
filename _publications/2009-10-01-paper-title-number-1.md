@@ -10,10 +10,14 @@ ensures that delta shock wave is a unique entropy solution.'
 date: 2023
 venue: 'Math Meth Appl Sci.'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://mathscinet.ams.org/mathscinet/author?authorId=1207727)'
-citation: 'Chhatria, Balakrishna; Sen, Anupam; Raja Sekhar, T.'
+citation: 'Chhatria, Balakrishna; Sen, Anupam; Raja Sekhar, T. 2023'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Here, we study the Riemann problem for a strictly hyperbolic system of conservation laws, which occurs in gas dynamics and nonlinear elasticity. We establish
+the existence and uniqueness of the solution of Riemann problem containing
+delta shock wave by employing self-similar vanishing viscosity approach. We
+prove that delta shock is stable under self-similar viscosity perturbation, which
+ensures that delta shock wave is a unique entropy solution.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Chhatria, Balakrishna; Sen, Anupam; Raja Sekhar, T. 2023
