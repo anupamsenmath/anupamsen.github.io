@@ -3,22 +3,27 @@ main:
 
   - title: "Home"
     url: /about/
+
+  - title: "Research"
+    url: /research/ 
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/    
+     
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Workshops / Conferences / Invited Talks"
-    url: /workshops/
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Awards"
+    url: /awards/
 
   - title: "Important Links"
     url: /important-links/
 
-  - title: "Awards"
-    url: /awards/
+ 
 
     
