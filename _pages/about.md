@@ -27,3 +27,5 @@ Education
   
 Students
 -----------
+News
+--------
