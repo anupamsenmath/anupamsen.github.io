@@ -4,6 +4,6 @@ title: ""
 permalink: /service/
 author_profile: true
 ---
-<h3>Professional Training</h3>
+<h3>Professional Membership</h3>
 
-* OSM Hackfest #13 on "5G Core Onboarding using Magma", Jun. 13-17, 2022, Virtual.
+* Life Membership for Indian Mathematical Society (L/2019/155).
