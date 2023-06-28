@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anupam Sen / My Website"
+title                    : "Anupam Sen"
 title_separator          : "-"
 name                     : &name "Anupam Sen"
-description              : &description "Postdoctoral Fellow"
+description              : &description "Post Doctoral Fellow"
 url                      : https://anupamsenmath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anupamsenmath/anupamsenmath.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anupam Sen"
   avatar           : "profile.png"
-  bio              : "Mathematician working on hyperbolic conservation laws"
+  bio              : "Post Doctoral Fellow"
   location         : "TIFR-CAM Bangalore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,9 +103,9 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3463-758X"
   pinterest        :
-  soundcloud       :
+  web of science   :  "https://www.webofscience.com/wos/author/record/GRR-5906-2022"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
