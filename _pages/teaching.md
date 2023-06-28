@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h3>Courses as Instructor</h3>
-*ss
+
 
 
 <h3>Courses as Teaching Assistant</h3>
