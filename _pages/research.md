@@ -1,8 +1,9 @@
 ---
-title: "Research"
+layout: archive
+title: ""
 permalink: /research/
 author_profile: true
------
+---
 
 *Hyperbolic Conservation Laws
 *Partial Differential Equations
