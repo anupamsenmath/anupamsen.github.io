@@ -25,4 +25,5 @@ Education
 * B.Sc Midnapore College, Vidyasagar University, West Bengal, 2009-2012
 * Higher Secondary Education (12th), Kharagpur Silver Jubilee High School, West Bengal, 2007-2009
   
-
+Students
+-----------
