@@ -12,6 +12,14 @@ Presently, I am working as a Post Doctoral Fellow at [TIFR-Centre for Applicable
 
 My full CV is here.
 
+Contact Details
+----------------
+
+TIFR Centre for Applicable Mathematics
+Sharada Nagar, Chikkabommsandra,
+Bengaluru, Karnataka-560065, India
+Email: sen.anupam123@gmail.com, anupam21@tifrbng.res.in
+
 
 Work Experience
 ----------
