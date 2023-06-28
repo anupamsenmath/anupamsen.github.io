@@ -15,14 +15,14 @@ My full CV is here.
 
 Work Experience
 ----------
-* Post Doctoral Fellow at TIFR-Centre for Applicable Mathematics, Bengaluru, India (September 2021 -- present).
+* Post Doctoral Fellow at TIFR-Centre for Applicable Mathematics, Bengaluru, India (September 2021 -- Present).
 * Awarded JRF project (SERB, DST, Government of India (Ref No: SB/FTP/MS-047/2013)) entitled “Delta shock waves and wave inactions in hyperbolic system of conservation laws” at IIT Kharagpur (October 2015- December 2016).
 
 Education
 ---------
 * Ph.D., Indian Institute of Technology Kharagpur, India (2017-2021)
 * M.Sc, Indian Institute of Technology Bombay, Mumbai, India (2012-2014)
-* B.Sc Midnapore College, Vidyasagar University, 2009-2012
-* Higher Secondary Education (12th), Kharagpur Silver Jubilee High School 2007-2009
+* B.Sc Midnapore College, Vidyasagar University, West Bengal, 2009-2012
+* Higher Secondary Education (12th), Kharagpur Silver Jubilee High School, West Bengal, 2007-2009
   
 
