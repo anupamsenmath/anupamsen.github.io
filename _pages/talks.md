@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Workshops, Conferences and Invited talks"
-permalink: /workshops/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 ---
 <h3>Journals</h3>
