@@ -14,3 +14,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Workshops / Conferences / Invited Talks"
+    url: /workshops/
+
+  - title: "Important Links"
+    url: /important-links/
