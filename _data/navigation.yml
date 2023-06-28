@@ -21,6 +21,9 @@ main:
   - title: "Awards"
     url: /awards/
 
+  - title: "Services"
+    url: /service/
+
   - title: "Important Links"
     url: /important-links/
 
