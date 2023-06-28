@@ -6,4 +6,4 @@ author_profile: true
 --- 
 
 <h3>List of Ph.D. students</h3>
-* Anupam Sen
+* Anupam Sen.
