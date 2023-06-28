@@ -4,5 +4,11 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-<h3>Journals</h3>
-1. B. Chhatria, <b>Anupam Sen </b> and T. Raja Sekhar, "[Self-similar viscosity approach to the Riemann problem for a strictly hyperbolic system of conservation laws](https://doi.org/10.1002/mma.8969)", Mathematical Methods in the Applied Sciences 46 (6) (2023): 7265-7284 (Wiley).
+<h3>Conferences Participated in Abroad/ India</h3>
+
+* Participated and gave a poster presentation on “Wave interactions and stability of the Riemann solution for a strictly hyperbolic system of conservation laws” in ICIAM-2019 
+  at Valencia, Spain, July 15-19, 2019.
+* Participated and gave a poster presentation on “Wave interactions in a thin film of a perfectly soluble anti-surfactant solution” in ICM-2018 at Rio de Janeiro, Brazil, 
+  August 1-9, 2018.
+* Participated and gave a conference talk on “Stability of the Riemann solution for a strictly hyperbolic system of conservation laws with flux approximation” in ISTAM-2018 at 
+  Dayanand Sagar University, Bangalore, India, December 20-23, 2018.
