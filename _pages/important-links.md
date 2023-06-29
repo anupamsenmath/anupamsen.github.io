@@ -10,4 +10,5 @@ author_profile: true
 
 <h3>Old Question Papers & Answer Keys</h3>
 * [NBHM M.Sc/Ph.D.](https://www.imsc.res.in/~nbhm/qp/)
+* [GATE Mathematics](https://infostudy.co.in/gate-mathematics-previous-year-papers/)
   
