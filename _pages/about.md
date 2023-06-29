@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Presently, I am working as a Post Doctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) working with [Prof. Shyam Sundar Ghoshal](https://sites.google.com/tifrbng.res.in/shyam/shyam-sundar-ghoshal). I did my Ph.D. at the Indian Institute of Technology Kharagpur, India under the supervision of [Prof. T. Raja Sekhar](https://www.iitkgp.ac.in/department/MA/faculty/ma-trajasekhar). My broad area of research is analysis of hyperbolic partial differential equations.
+Presently, I am working as a Post Doctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) under the mentorship of [Prof. Shyam Sundar Ghoshal](https://sites.google.com/tifrbng.res.in/shyam/shyam-sundar-ghoshal). I did my Ph.D. at the Indian Institute of Technology Kharagpur, India under the supervision of [Prof. T. Raja Sekhar](https://www.iitkgp.ac.in/department/MA/faculty/ma-trajasekhar). My broad area of research is analysis of hyperbolic partial differential equations.
 
 My full CV is here.
 
