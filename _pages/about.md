@@ -25,7 +25,7 @@ Email: sen.anupam123@gmail.com, anupam21@tifrbng.res.in
 Work Experience
 ----------
 * Post Doctoral Fellow at TIFR-Centre for Applicable Mathematics, Bengaluru, India (September 2021 -- Present).
-* Awarded JRF project (SERB, DST, Government of India (Ref No: SB/FTP/MS-047/2013)) entitled “Delta shock waves and wave inactions in hyperbolic system of conservation laws” at IIT Kharagpur (October 2015- December 2016).
+  
 
 Education
 ---------
