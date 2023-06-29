@@ -34,6 +34,6 @@ Education
 * M.Sc: [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), Mumbai, India, 2014.
 * B.Sc: [Midnapore College](https://midnaporecollege.ac.in/) (under [Vidyasagar University](http://www.vidyasagar.ac.in/Default.aspx)), West Bengal, India, 2012.
 * Higher Secondary:  West Bengal Council of Higher Secondary Education, 2009.
-* Secondary: West Bengal Board of Secondary Education, 2007
+* Secondary: West Bengal Board of Secondary Education, 2007.
   
 
