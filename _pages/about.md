@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am presently working as a Postdoctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in), under the guidance of [Prof. Shyam Sundar Ghoshal](https://sites.google.com/tifrbng.res.in/shyam/shyam-sundar-ghoshal). Prior to this, I obtained my Ph.D. from the [Indian Institute of Technology Kharagpur, India](https://www.iitkgp.ac.in/), under the supervision of [Prof. T. Raja Sekhar](https://www.iitkgp.ac.in/department/MA/faculty/ma-trajasekhar). My research specialization lies in the analysis of hyperbolic partial differential equations.
+I am presently working as a Postdoctoral Fellow at [NISER Bhubaneswar](https://www.niser.ac.in/sms/), under the guidance of [Prof. Manas Ranjan Sahoo](https://www.niser.ac.in/sms/professor/manas). Prior to this, I was a Postdoctoral Fellow at [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in), under the mentorship of [Prof. Shyam Sundar Ghoshal](https://sites.google.com/tifrbng.res.in/shyam/shyam-sundar-ghoshal). I obtained my Ph.D. from the [Indian Institute of Technology Kharagpur, India](https://www.iitkgp.ac.in/), under the supervision of [Prof. T. Raja Sekhar](https://www.iitkgp.ac.in/department/MA/faculty/ma-trajasekhar). My research specialization lies in the analysis of hyperbolic partial differential equations.
 
 
 My full [CV](http://anupamsenmath.github.io/files/Anupam_CV.pdf) is here. 
@@ -25,7 +25,8 @@ Email: sen.anupam123@gmail.com, anupam21@tifrbng.res.in
 
 Work Experience
 ----------
-* Post Doctoral Fellow at TIFR-Centre for Applicable Mathematics, Bengaluru, India (September 2021 -- Present).
+* Post Doctoral Fellow at NISER Bhubaneswar, India (September 2023 -- till date).
+* Post Doctoral Fellow at TIFR-Centre for Applicable Mathematics, Bengaluru, India (September 2021 -- September 2023)
   
 
 Education
