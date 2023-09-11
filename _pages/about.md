@@ -16,11 +16,11 @@ My full [CV](http://anupamsenmath.github.io/files/Anupam_CV.pdf) is here.
 Contact Details
 ----------------
 
-TIFR Centre for Applicable Mathematics
-Sharada Nagar, Chikkabommsandra,
-Bengaluru, Karnataka-560065, India
+NISER Bhubaneswar
+School of Mathematical Sciences,
+Jatni, Odisha-752050, India
 
-Email: sen.anupam123@gmail.com, anupam21@tifrbng.res.in
+Email: sen.anupam123@gmail.com, anupam21@tifrbng.res.in, anupam23@niser.ac.in
 
 
 Work Experience
