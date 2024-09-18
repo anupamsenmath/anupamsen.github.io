@@ -15,10 +15,9 @@ My full [CV](http://anupamsenmath.github.io/files/Anupam_CV.pdf) is here.
 
 Contact Details
 ----------------
-
-NISER Bhubaneswar
-School of Mathematical Sciences,
-Jatni, Odisha-752050, India
+School of Advanced Sciences & Languages (SASL)
+VIT Bhopal University
+Kotri Kalan, Ashta, Indore Road, Bhopal, Madhya Pradesh 466114
 
 Email: sen.anupam123@gmail.com, anupamsen@vitbhopal.ac.in, anupam23@niser.ac.in
 
