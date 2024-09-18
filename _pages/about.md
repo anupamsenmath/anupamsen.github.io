@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the School of Advanced Sciences & Languages (SASL), VIT Bhopal. Before this, I worked as a Postdoctoral Fellow at [NISER Bhubaneswar](https://www.niser.ac.in/sms/), for one year and [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) for two years. I obtained my Ph.D. from the [Indian Institute of Technology Kharagpur, India](https://www.iitkgp.ac.in/), under the supervision of [Prof. T. Raja Sekhar](https://www.iitkgp.ac.in/department/MA/faculty/ma-trajasekhar). My research specialization lies in the analysis of hyperbolic partial differential equations.
+I am an Assistant Professor at the School of Advanced Sciences & Languages (SASL), [VIT Bhopal University](https://vitbhopal.ac.in/). Before this, I worked as a Postdoctoral Fellow at [NISER Bhubaneswar](https://www.niser.ac.in/sms/), for one year and [TIFR-Centre for Applicable Mathematics, Bengaluru](https://www.math.tifrbng.res.in) for two years. I obtained my Ph.D. from the [Indian Institute of Technology Kharagpur, India](https://www.iitkgp.ac.in/), under the supervision of [Prof. T. Raja Sekhar](https://www.iitkgp.ac.in/department/MA/faculty/ma-trajasekhar). My research specialization lies in the analysis of hyperbolic partial differential equations.
 
 
 My full [CV](http://anupamsenmath.github.io/files/Anupam_CV.pdf) is here. 
 
 Contact Details
 ----------------
-School of Advanced Sciences & Languages (SASL)
-VIT Bhopal University
+School of Advanced Sciences & Languages (SASL),
+VIT Bhopal University,
 Kotri Kalan, Ashta, Indore Road, Bhopal, Madhya Pradesh 466114
 
 Email: sen.anupam123@gmail.com, anupamsen@vitbhopal.ac.in, anupam23@niser.ac.in
