@@ -19,7 +19,7 @@ author_profile: true
 <h3>Seminar Talks</h3> 
 
 * Self-similar viscosity approach to the Riemann problem for a strictly hyperbolic system of conservation laws, NISER Bhubaneswar, India, February 15, 2024.
-*  Large data existence for p-type system with large exponent of the pressure term, TIFR-CAM, August 26, 2022.
+*  Large data existence for p-type system with large exponent of the pressure term, TIFR-CAM, India, August 26, 2022.
   
 
 <h3>Workshops Participation</h3>
