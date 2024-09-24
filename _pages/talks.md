@@ -15,6 +15,12 @@ author_profile: true
 * Participated and gave a conference talk on “Stability of the Riemann solution for a strictly hyperbolic system of conservation laws with flux approximation” in ISTAM-2018 
   at Dayanand Sagar University, Bangalore, India, December 20-23, 2018.
 
+
+<h3>Seminar Talks</h3> 
+
+* Self-similar viscosity approach to the Riemann problem for a strictly hyperbolic system of conservation laws, NISER Bhubaneswar, India, February 15, 2024.
+  
+
 <h3>Workshops Participation</h3>
 
 * Workshop on "AIS Linear Partial Differential Equations" at TIFR-CAM, June 19- July 8, 2017. 
