@@ -5,9 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h3>Courses as Instructor</h3>
+<h3>Courses as Instructor at VIT Bhopal</h3>
 
-
+* Applied Linear Algebra (MAT3002): Interim Semester 2024-25
+* Calculus (MAT1003): Interim Semester 2024-25
 
 <h3>Courses as Teaching Assistant</h3>
 
