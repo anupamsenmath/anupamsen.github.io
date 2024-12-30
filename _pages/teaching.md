@@ -7,6 +7,8 @@ author_profile: true
 
 <h3>Courses as Instructor at VIT Bhopal University</h3>
 
+* Transform Techniques and Difference Equations (MAT2005): Winter Semester 2024-25
+* Discrete Mathematics and Graph Theory (MAT2002): Winter Semester 2024-25
 * Applied Linear Algebra (MAT3002): Interim Semester 2024-25
 * Calculus (MAT1003): Interim Semester 2024-25
 
