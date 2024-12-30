@@ -3,6 +3,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Awarded Postdoctoral fellowship by National Board of Higher Mathematics (NBHM), Dept. of Atomic Energy, India, November 2024.
 * Institute Post Doctoral Fellowship at NISER Bhubaneswar, September 2023.
 * Institute Post Doctoral Fellowship at TIFR Centre for Applicable Mathematics, September 2021.
 * SRF (Senior Research Fellow) of CSIR-UGC, India.
